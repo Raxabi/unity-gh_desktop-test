@@ -3,7 +3,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 public class CameraView : MonoBehaviour {
-    public float sensitivity = -2f;
+    public float sensitivity = -2.5f;
 
     public Transform playerMovement;
 
